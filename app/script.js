@@ -22,7 +22,6 @@ function onSubmit(event){
     console.log(todoText.value);
     todoText.value = "";
     todoText.focus();
-
     idNum++;
 }
 
