@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    font-family: 'Nanum Gothic', sans-serif;
+    text-align: center;
+    margin: 16px 8px;
+    padding: 0;
+}
+
+#ct{
+    font-size: 32px;
+}
+
+#todoList{
+    width: 500px;
+    background-color: rosybrown;
+    list-style: none;
+    margin: 3px 0;
+}
